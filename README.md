@@ -2,7 +2,7 @@
 <h1 align="center">Things are getting intense</h1>
 
 <!-- Banner Image -->
-<a href="#"><img src="https://u.pone.rs/zsbodtza.jpeg" alt="His Excellency's Banner" style="display: block; margin: 0 auto; max-width: 100%;"/></a>
+<a href="#"><img src="https://u.pone.rs/mozgmuav.jpeg" alt="His Excellency's Banner" style="display: block; margin: 0 auto; max-width: 100%;"/></a>
 
 <!-- 🤖 One-Click Setup Buttons -->
 <h2 align="center">🤖Deployment methods</h2>
