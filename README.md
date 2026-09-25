@@ -1,11 +1,11 @@
 <h1 align="center">HIS EXCELLENCY MD</h1>
-<h1 align="center">Stay focused,team;things are getting intense</h1>
+<h1 align="center">Things are getting intense</h1>
 
 <!-- Banner Image -->
 <a href="#"><img src="https://files.catbox.moe/sigghy.jpg" alt="His Excellency's Banner" style="display: block; margin: 0 auto; max-width: 100%;"/></a>
 
-<!-- 🚀 One-Click Setup Buttons -->
-<h2 align="center">🚀 One-Click Setup</h2>
+<!-- 🤖 One-Click Setup Buttons -->
+<h2 align="center">🤖Deployment methods</h2>
 
 <!-- Fork Repository -->
 <p align="center">
