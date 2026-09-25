@@ -1,7 +1,7 @@
-# MAKAMESCO_XMD - WhatsApp Multi-Device Bot
+# 𝐇𝐈𝐒 𝐄𝐗𝐂𝐄𝐋𝐋𝐄𝐍𝐂𝐘~𝐌𝐃 - WhatsApp Multi-Device Bot
 
 ## Overview
-A WhatsApp multi-device bot (MAKAMESCO_XMD) built with Node.js and the Baileys library. Provides automated features like auto-reply, anti-delete, media downloading, stickers, AI chat, and various command-based utilities.
+A WhatsApp multi-device bot (𝐇𝐈𝐒 𝐄𝐗𝐂𝐄𝐋𝐋𝐄𝐍𝐂𝐘~𝐌𝐃) built with Node.js and the Baileys library. Provides automated features like auto-reply, anti-delete, media downloading, stickers, AI chat, and various command-based utilities.
 
 ## Architecture
 - **Runtime**: Node.js 20

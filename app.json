@@ -1,6 +1,6 @@
 {
-  "name": "MAKAMESCO-MD MULT DEVICE BOT",
-  "description": "MAKAMESCO-MD WhatsApp device bot made by MAKAMESCO DIGITAL SOLUTIONS to enable a user to use WhatsApp with more powerful features.",
+  "name": "𝐇𝐈𝐒 𝐄𝐗𝐂𝐄𝐋𝐋𝐄𝐍𝐂𝐘~𝐌𝐃 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 𝐁𝐎𝐓",
+  "description": "𝐇𝐈𝐒 𝐄𝐗𝐂𝐄𝐋𝐋𝐄𝐍𝐂𝐘~𝐌𝐃 WhatsApp device bot made by 𝑯𝒊𝒔 𝑬𝒙𝒄𝒆𝒍𝒍𝒆𝒏𝒄𝒚 to enable a user to use WhatsApp with more powerful features.",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/sigghy.jpg",
-  "repository": "https://github.com/mesh-matheka/Makamesco_md",
+  "repository": "https://github.com/RICHARD207617/HIS-EXCELLENCY-MD.git",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -114,7 +114,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '254739385768')",
-      "value": "254769995625",
+      "value": "254140335101",
       "required": false
     },
     "WARN_COUNT": {

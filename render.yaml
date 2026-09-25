@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: MAKAMESCO-MD
-    env: node # Change to "python" or your environment if not Node.js
+    name: 𝐇𝐈𝐒 𝐄𝐗𝐂𝐄𝐋𝐋𝐄𝐍𝐂𝐘~𝐌𝐃
+    runtime: node
     plan: free
     buildCommand: npm install 
     startCommand: npm start   

@@ -1,5 +1,5 @@
 {
-  "name": "babyboy",
+  "name": "𝐇𝐈𝐒 𝐄𝐗𝐂𝐄𝐋𝐋𝐄𝐍𝐂𝐘",
   "version": "2.0.0",
   "description": "Heroku worker bot app",
   "main": "control.js",
@@ -14,12 +14,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "MKamesvo-creeper-xmd",
+    "His-excellency-xmd",
     "whatsapp",
     "whatsapp-bot",
     "frediezra"
   ],
-  "author": "frediezra",
+  "author": "His-excellency",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
